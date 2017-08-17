@@ -1,0 +1,24 @@
+{
+  "name": "how-to-npm-projects-tutorial",
+  "version": "1.0.0",
+  "description": "how to npm dev env tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Tsai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brtsai/how-to-npm-projects-tutorial.git"
+  },
+  "keywords": [
+    "npm",
+    "tutorial",
+    "projects"
+  ],
+  "bugs": {
+    "url": "https://github.com/brtsai/how-to-npm-projects-tutorial/issues"
+  },
+  "homepage": "https://github.com/brtsai/how-to-npm-projects-tutorial#readme"
+}
